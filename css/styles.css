@@ -3,6 +3,12 @@
     margin: 0 auto;
     padding: 20px;
     text-align: center;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+    background-image: radial-gradient(circle, #f10909, #f9540d);
+    background-size: cover;
   }
   
   .input {
